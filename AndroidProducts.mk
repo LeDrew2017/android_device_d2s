@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_d2s.mk
+    $(LOCAL_DIR)/banana_d2s.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_d2s-eng \
-    xtended_d2s-user \
-    xtended_d2s-userdebug
+    banana_d2s-eng \
+    banana_d2s-user \
+    banana_d2s-userdebug
