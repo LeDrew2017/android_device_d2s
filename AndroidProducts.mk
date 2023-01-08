@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_d2s.mk
+    $(LOCAL_DIR)/bliss_d2s.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_d2s-eng \
-    xtended_d2s-user \
-    xtended_d2s-userdebug
+    bliss_d2s-eng \
+    bliss_d2s-user \
+    bliss_d2s-userdebug
